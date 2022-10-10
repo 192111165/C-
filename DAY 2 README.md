@@ -14,3 +14,4 @@ eligible for vote
 decimal number
 simple interest
 eligible for vote
+In day 2 i have done 15 programs in Dev C++
