@@ -2,6 +2,7 @@
 armstrong number using function
 binary to decimal
 decimal to binary
+diamond pattern
 fibbonaci series
 floyds pattern
 full pyramid
@@ -24,4 +25,4 @@ test2
 test2.1
 test3
 test3.1
-In day 0 i have done 25 programs in Dev c++
+In day 0 i have done 26 programs in Dev c++
